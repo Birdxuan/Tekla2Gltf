@@ -1,6 +1,6 @@
 ##  Tekla2Gltf 
 
-[English](docs/README_EN.md) | [中文](docs/README_CN.md)
+[English](doc/README_EN.md) | [中文](doc/README_CN.md)
 
 ### I. Tekla2glTF: A Tekla glTF Exporter
 
